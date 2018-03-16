@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Playground</string>
     <string name="greeting">This is my first android app </string>
-    <string name="noctis_imagebutton"> Just a test button </string>
+    <string name="moon_imagebutton"> Just a test button </string>
 </resources>
 
